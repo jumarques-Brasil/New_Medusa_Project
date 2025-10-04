@@ -174,13 +174,4 @@ Para cada teste, registre:
 4. SMB / spray e validação — 1 hora
 5. Documentação, screenshots e logs — 1–2 horas
 
----
-
-## Observações finais
-- Mantenha evidências (logs e screenshots) e inclua um resumo executivo no README (o que foi testado e o resultado principal).
-- Se quiser, adicione scripts que automatizem a configuração do ambiente (por exemplo, `Vagrantfile` ou `docker-compose` para ambientes que suportem).
-
----
-
-**Boa sorte!** Se quiser, eu gero agora os arquivos `users.txt` e `passwords-small.txt` prontos para download, e um arquivo `medusa_commands.txt` com os comandos usados. Diga qual opção prefere que eu crie primeiro.
 
